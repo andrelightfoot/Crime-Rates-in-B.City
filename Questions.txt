@@ -1,0 +1,9 @@
+Questions for in Baltimore City Crime Rates:
+
+1) How many crimes have happened in each part of Baltimore 
+
+2) What area has had the most crimes
+
+3) What crimes are most frequent
+
+4) What time of the day do most crimes occur
