@@ -12,7 +12,5 @@ def q_and_a(q,a):
     print(questions[q])
     print('The answer is: {}'.format(answers[a]))
 
-#1) How many Neighborhoodsare in the dataset? 
-
 answers[1] = len(df.Neighborhood.unique()) #This will give you a count of all the unique values
 answers[2] = df.Description.value_counts() #How many of each crime reported
